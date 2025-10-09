@@ -1,0 +1,7 @@
+﻿  project4.2.cpp
+C:\Users\yaros\source\repos\project4.2\project4.2\project4.2.cpp(7,47): error C2297: "<<": недопустимо, поскольку тип правого операнда — "std::ios_base &(__cdecl *)(std::ios_base &)"
+C:\Users\yaros\source\repos\project4.2\project4.2\project4.2.cpp(7,65): error C2563: несоответствие в списке формальных параметров
+C:\Users\yaros\source\repos\project4.2\project4.2\project4.2.cpp(7,65): error C2568: <<: не удается разрешить перегрузку функции
+      C:\Users\yaros\source\repos\project4.2\project4.2\project4.2.cpp(7,65):
+      может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+  
